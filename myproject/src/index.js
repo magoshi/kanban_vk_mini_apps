@@ -3,7 +3,7 @@ import "core-js/features/set";
 import React from "react";
 import ReactDOM from "react-dom";
 import bridge from "@vkontakte/vk-bridge";
-import App from "./App";
+import App from "./components/App";
 // Firebase App (the core Firebase SDK) is always required and must be listed first
 import firebase from "firebase/app";
 // If you are using v7 or any earlier version of the JS SDK, you should import firebase using namespace import
